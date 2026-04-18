@@ -1,0 +1,106 @@
+/* 
+  Localizable.strings
+  DataLab
+
+  Created by Andrew Bordiuk on 01.12.2024.
+  
+*/
+
+//MARK: Welcome page
+"WelcomeTitle" = "Зручний інструмент для управління науковими даними";
+"WelcomeSubTitle" = "Cтворюйте публікацій, додавайте нотатки з нагадуваннями та слідкуйте за своєю продуктивністю!";
+"Login" = "Вхід";
+"Register" = "Реєстрація";
+
+//MARK: LoginView
+"Welcome" = "Ласкаво просимо";
+"Email" = "Пошта";
+"Password" = "Пароль";
+"EmailNotValid" = "Електронна пошта введена не коректно";
+"PasswordNotValid" = "Пароль введено не коректно";
+"ForgotPassword" = "Забули свій пароль?";
+"SignIn" = "Увійти";
+"DontHaveAcc" = "Ще немає облікового запису?";
+"RegisterNow" = "Зареєструватися";
+"UserFound" = "Користувача знайдено";
+"LinkSent" = "Посилання надіслано";
+
+//MARK: RegisterView
+"CreateAccTitle" = "Реєстрація акаунта";
+"CreateAccSubTitle" = "Зареєструйтесь, щоб отримати доступ до всіх функцій";
+"UserName" = "Ім'я користувача";
+"AboutYou" = "Про Вас";
+"BioLink" = "Особисте посилання";
+"SignUp" = "Зареєструватись";
+"HaveAcc" = "Вже маєте обліковий запис?";
+"LoginNow" = "Увійти";
+
+//MARK: NavBar
+"Services" = "Сервіси";
+"Note" = "Нотатки";
+"Chat" = "Чат";
+"Feed" = "Публікації";
+"Profile" = "Профіль";
+
+//MARK: Services
+"ScientificRes" = "Наукові ресурси";
+"Additionally" = "Додатково";
+"MyStatistics" = "Моя статистика";
+"InfluencerIndex" = "Показник впливовості";
+"News" = "Новини";
+"ViewEvents" = "Перегляд подій та вебінарів";
+"GoogleScholar" = "Відстежуйте бібліографічні посилання на свої статті. Ваш профіль можна буде знайти в Академії";
+"WebOfScince" = "Прискорюйте нові дослідження за допомогою наукових інструментів";
+
+//MARK: Note
+"MyNotes" = "Мої Нотатки";
+"Title" = "Заголовок";
+"ReminderDate" = "Дата нагадування";
+"Save" = "Зберегти";
+"CreateNote" = "Створити Нотатку";
+"Reminder" = "Нагадування";
+"DontForget" = "Не забудьте про: ";
+"ErrorReminder" = "Помилка при додаванні нагадування:";
+"ReminderScheduled" = "Нагадування заплановане на";
+
+//MARK: EditNote
+"ReminderDate" = "Дата нагадування";
+"SaveChanges" = "Зберегти зміни";
+
+//MARK: Chat
+"Hello, %@" = "Привіт, %@";
+"Loading" = "Завантаження...";
+"EnterMessage" = "Введіть повідомлення...";
+
+//MARK: Posts
+"Cancel" = "Скасувати";
+"Post" = "Опублікувати";
+"WhatsNew" = "Що у Вас нового?";
+"Done" = "Готово";
+"DeletePost" = "Видалити публікацію";
+"SearchUser" = "Пошук користувача";
+"NoPostsFound" = "Публікації не знайдено";
+
+//MARK: Profile
+"Logout" = "Вийти";
+"EditProfile" = "Редагувати Профіль";
+"DeleteAcc" = "Видалити акаунт";
+"Posts" = "Мої публікації";
+
+//MARK: News
+"NewsTabKey" = "Новини";
+"WebinarsTabKey" = "Вебінари";
+
+//MARK: Statistics
+"AddData" = "Додати Дані";
+"EditData" = "Редагувати Дані";
+"NumberOfpublic" = "Введіть кількість публікацій та цитувань за рік";
+"Year" = "Рік: ";
+"YearLimit" = "Рік має бути не раніше 1995.";
+"NotZero" = "Публікації або цитування мають бути більше нуля.";
+"Publications" = "Публікації: %d";
+"Citations" = "Цитування: %d";
+"MyStatistics" = "Моя статистика";
+"DataMissing" = "Дані відсутні. Додайте свої роботи.";
+"AddData" = "Додати дані";
+"Back" = "Назад";

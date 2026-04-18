@@ -1,0 +1,106 @@
+/* 
+  Localizable.strings
+  DataLab
+
+  Created by Andrew Bordiuk on 01.12.2024.
+  
+*/
+
+//MARK: Welcome page
+"WelcomeTitle" = "A convenient tool for managing scientific data";
+"WelcomeSubTitle" = "Create posts, add notes with reminders and track your productivity!";
+"Login" = "Login";
+"Register" = "Register";
+
+//MARK: LoginView
+"Welcome" = "Welcome";
+"Email" = "Email";
+"Password" = "Password";
+"EmailNotValid" =  "Your Email is not valid";
+"PasswordNotValid" = "Your Password is not valid";
+"ForgotPassword" = "Forgot your password?";
+"SignIn" = "Sign In";
+"DontHaveAcc" = "Don`t have account?";
+"RegisterNow" = "Register Now";
+"UserFound" = "User found";
+"LinkSent" = "Link Sent";
+
+//MARK: RegisterView
+"CreateAccTitle" = "Create an Account";
+"CreateAccSubTitle" = "Register now to manage your data, track your progress, and organize your productivity seamlessly.";
+"UserName" = "User Name";
+"AboutYou" = "About you";
+"BioLink" = "BioLink (Optional)";
+"SignUp" = "Sign Up";
+"HaveAcc" = "Already have an account?";
+"LoginNow" = "LoginNow";
+
+//MARK: NavBar
+"Services" = "Services";
+"Note" = "Note";
+"Chat" = "Chat";
+"Feed" = "Feed";
+"Profile" = "Profile";
+
+//MARK: Services
+"ScientificRes" =  "Scientific resources";
+"Additionally" = "Additionally";
+"MyStatistics" = "My statistics";
+"InfluencerIndex" = "Influencer index";
+"News" = "News";
+"ViewEvents" = "View events and webinars";
+"GoogleScholar" = "Track bibliographic references to your articles. Your profile can be found in the Academy";
+"WebOfScince" = "Accelerate new research with scientific tools";
+
+//MARK: Note
+"MyNotes" = "My Notes";
+"Title" = "Title";
+"ReminderDate" = "Reminder date";
+"Save" = "Save";
+"CreateNote" = "Create note";
+"Reminder" = "Reminder";
+"DontForget" = "Don't forget about";
+"ErrorReminder" = "Error adding reminder: ";
+"ReminderScheduled" = "A reminder is scheduled for: ";
+
+//MARK: EditNote
+"ReminderDate" = "Reminder date";
+"SaveChanges" = "Save changes";
+
+//MARK: Chat
+"Hello, %@" = "Hello, %@";
+"Loading" = "Loading...";
+"EnterMessage" = "Enter a message...";
+
+//MARK: Posts
+"Cancel" = "Cancel";
+"Post" = "Post";
+"WhatsNew" = "Whats happening?";
+"Done" = "Done";
+"DeletePost" = "Delete Post";
+"SearchUser" = "Search User";
+"NoPostsFound" = "No Post`s Found";
+
+//MARK: Profile
+"Logout" = "Logout";
+"EditProfile" = "Edit Profile";
+"DeleteAcc" = "Delete Account";
+"Posts" = "Posts";
+
+//MARK: News
+"NewsTabKey" = "News";
+"WebinarsTabKey" = "Webinars";
+
+//MARK: Statistics
+"AddData" = "Add Data";
+"EditData" = "Edit Data";
+"NumberOfpublic" = "Enter the number of publications and citations per year";
+"Year" = "Year: ";
+"YearLimit" = "The year must be no earlier than 1995.";
+"NotZero" = "Publications or citations must be greater than zero.";
+"Publications" = "Publications: %d";
+"Citations" = "Citations: %d";
+"MyStatistics" = "My statistics";
+"DataMissing" = "Data missing. Add your work.";
+"AddData" = "Add data";
+"Back" = "Back";

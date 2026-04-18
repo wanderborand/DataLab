@@ -1,0 +1,72 @@
+# =========================
+# Xcode workspace (user + state)
+# =========================
+
+*.xcworkspace/
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+
+# =========================
+# Xcode build outputs
+# =========================
+
+DerivedData/
+build/
+
+# =========================
+# Swift Package Manager
+# =========================
+
+.build/
+.swiftpm/
+
+# =========================
+# CocoaPods / Carthage
+# =========================
+
+Carthage/Build/
+
+# =========================
+# Secrets and environment configs
+# =========================
+
+*.xcconfig
+*.env
+*.env.*
+
+Secrets.swift
+
+# Firebase
+GoogleService-Info.plist
+
+# =========================
+# macOS noise
+# =========================
+
+.DS_Store
+
+# =========================
+# Logs / cache / temp
+# =========================
+
+*.log
+*.tmp
+*.cache
+
+# =========================
+# Xcode project files (safe ignores)
+# =========================
+
+*.pbxuser
+!default.pbxuser
+
+# =========================
+# fastlane
+# =========================
+
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
